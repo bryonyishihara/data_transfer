@@ -26,5 +26,3 @@ for file in *.nii.gz ; do
   else echo "done"
   fi
 done
-
-#add slicesdir and fslhd??
