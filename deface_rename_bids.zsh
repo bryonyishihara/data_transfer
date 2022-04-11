@@ -1,7 +1,7 @@
 #!/bin/zsh
 
 #${1} = surgery date 'yyyy-mm-dd'
-# run from ses-preop directory
+# run from ses-preop directory for DBS patients with preop MRI and postop CT
 
 #defaces and renames images in bids format
 
