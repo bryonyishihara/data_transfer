@@ -1,7 +1,7 @@
 #!/bin/zsh
 
 # for DBS data with preop mri and postop CT
-#${1} = surgery date 'yyyy-mm-dd'
+#${1} = subject ID
 # have files sorted into ses-preop and ses-postop
 # run from DBS_dicom_nifti directory containing all sub-yyyy-mm-dd folders
 
