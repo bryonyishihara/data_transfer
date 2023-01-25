@@ -1,7 +1,7 @@
 #!/bin/zsh
 
 # for single session MRI data: sorts into anat and dwi, BIDS format
-# $1 = surgery date 'yyyy-mm-dd'
+# $1 = subject ID
 # $2 = session name, e.g. postop1
 
 #defaces and renames images in bids format and anonymises .json files
